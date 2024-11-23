@@ -4,9 +4,9 @@ Hello, This is a project on Account Login Form. Its basic idea is to Create an a
 and accessing your account by manipulating the account credentails.
 
 **Technologies Used:**
-JSP
-Servlets
-JDBC
-MySQL
+1. JSP
+2. Servlets
+3. JDBC
+4. MySQL
 
 
