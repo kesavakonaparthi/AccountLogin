@@ -1,11 +1,12 @@
 # Account Login Form
 
-[Hello, This is a project on Account Login Form using JSP, Servlets, JDBC and MySQL its ba
-sic idea is to Create an account and Login with the username and password an
-d accessing your account by manipulating the account credentails.]
+Hello, This is a project on Account Login Form. Its basic idea is to Create an account and Login with the username and password 
+and accessing your account by manipulating the account credentails.
 
 **Technologies Used:**
-[Java]
-[MySQL]
+JSP
+Servlets
+JDBC
+MySQL
 
 
